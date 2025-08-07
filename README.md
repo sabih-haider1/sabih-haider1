@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Sabih Haider
 
 I'm a **Junior Web Developer** and **Software Engineering student** who loves building, breaking, and fixing things in code.  
@@ -59,9 +58,9 @@ Currently working part-time at a tech company while completing my degree at UCP 
 ---
 
 ## 📫 Contact
-- **Email:** sabihhaider@example.com  
-- **LinkedIn:** [linkedin.com/in/sabih-haider](#)  
-- **GitHub:** [github.com/sabihhaider](#)
+- **Email:** sabih0364@gmail.com 
+- **LinkedIn:** [linkedin.com//in/sabih-h-581113274/](#)  
+- **GitHub:** [github.com/sabih-haider1](#)
 
 ---
 
