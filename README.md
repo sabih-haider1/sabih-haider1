@@ -59,7 +59,7 @@ Currently working part-time at a tech company while completing my degree at UCP 
 
 ## 📫 Contact
 - **Email:** sabih0364@gmail.com 
-- **LinkedIn:** [linkedin.com//in/sabih-h-581113274/](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/sabih-h-581113274/](#)  
 - **GitHub:** [github.com/sabih-haider1](#)
 
 ---
