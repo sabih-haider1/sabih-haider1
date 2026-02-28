@@ -1,80 +1,124 @@
 # 👋 Hi, I'm Sabih Haider
 
-I'm a **Junior Web Developer** and **Software Engineering student** who loves building, breaking, and fixing things in code.  
-Currently working part-time at a tech company while completing my degree at UCP Lahore (5th semester, CGPA 3.27).  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0F9D58&center=true&vCenter=true&width=800&lines=Junior+Web+Developer;Software+Engineering+Student;Frontend+Focused+Fullstack+Learner;Building+Real-World+Projects;Learning+By+Shipping+Code" />
+</p>
 
 ---
 
-## 🚀 Skills & Tech
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend & APIs:** Node.js, PHP, REST APIs
-- **CMS & eCommerce:** WordPress (custom plugins), OpenCart (modules, migrations)
-- **Databases:** MySQL, MongoDB
-- **Other:** Python, Git/GitHub, SuiteCRM customization
+## 🚀 About Me
+
+💻 Junior Web Developer working part-time in a tech company  
+🎓 Software Engineering Student at UCP Lahore (5th Semester, CGPA: 3.27)  
+⚡ I build practical systems, not tutorial clones  
+📈 Focused on becoming a strong full-stack engineer  
 
 ---
 
-## 🛠 Projects & Work
-### 🎓 Academic & University Projects
-- **Demion University Web Portal**  
-  Frontend web app integrating **38+ educational and admin processes** — admissions, course management, remote exams, IT support, library access, and more.  
-  Includes **Business Process Engineering documentation** for all `/dashboard` routes.
+## 🧠 Tech Stack
 
-- **Business Process Documentation Tool**  
-  Structured process docs with Title, Description, Inputs/Outputs, Actors, UI Components, Rendering Type, APIs — exportable to Markdown, PDF, and Word.
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
 
-- **Pokémon-Themed Chess Game**  
-  Full standalone HTML game with embedded CSS/JS & base64 images. Complete chess rules (castling, en passant, promotion) + Pokémon sprites as pieces.
+### ⚙ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,express" />
+</p>
 
-- **Advanced Web Programming Coursework**  
-  React Native apps (Expo), API fetching with Axios, navigation (Stack/Tabs), Flexbox layouts, and custom loaders/error handling.
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-- **Computer Communications & Networks Assignments**  
-  Networking concepts and practical exercises in data communication.
-
----
-
-### 💼 Professional & Freelance Work
-- **PayPal Standard Payment Extension (OpenCart 4.0)**  
-  Sandbox/live mode, GBP-only, IPN support, default checkout integration, order status mapping.
-
-- **OpenCart Product Migration Tool**  
-  Migrated products from OpenCart 1.5 → 4.1 using Excel-based import/export, handling compatibility/validation issues.
-
-- **SuiteCRM Instance Duplication**  
-  Updated database credentials, fixed broken links, and adapted for new environments.
-
-- **WordPress Custom Plugin Development**  
-  Built and customized plugins for client-specific needs.
+### 🛠 Tools & Other
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Interests
-- Frontend frameworks (React, Vue, Svelte)
-- UI/UX tooling (Figma, Tailwind)
-- Backend APIs & integrations
-- Exploring AI/ML applications
+## 🏗 Real Projects
+
+### 🎓 Demion University Web Portal
+Frontend system integrating **38+ university processes**  
+Admissions • Course Management • Remote Exams • IT Support • Digital Library  
+Includes full **Business Process Engineering documentation** for `/dashboard` routes.
+
+---
+
+### 💳 PayPal Standard Extension (OpenCart 4.0)
+• Sandbox / Live mode  
+• GBP-only enforcement  
+• IPN handling  
+• Order status mapping  
+• Default checkout integration  
+
+---
+
+### 🔄 OpenCart Migration System
+Migrated products from **OpenCart 1.5 → 4.1**  
+Handled Excel import/export validation issues  
+Resolved compatibility conflicts in ProductOptionValues  
+
+---
+
+### ♟ Pokémon-Themed Chess Game
+Standalone HTML game  
+Complete chess logic  
+Castling • En Passant • Promotion  
+Custom Pokémon sprites as pieces  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabih-haider1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih-haider1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+• Advanced React patterns  
+• System design fundamentals  
+• API architecture  
+• AI integration into web apps  
 
 ---
 
 ## 📫 Contact
-- **Email:** sabih0364@gmail.com
+
+📧 sabih0364@gmail.com  
 
 ---
 
-> _"Learning by doing — one project, one bug, and one commit at a time."_  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabih-haider1&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Learning by building.  
+> Shipping over talking.  
+> Real projects over tutorial comfort.
+
+---
 
 <!--
-**sabih-haider1/sabih-haider1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This repository appears on your GitHub profile.
+Keep updating it as your skills grow.
 -->
