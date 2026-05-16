@@ -123,7 +123,7 @@ Standalone browser chess game with complete logic: Castling, En Passant, Promoti
 
 📧 sabih0364@gmail.com  
 🌐 [sabih-ssy.vercel.app](https://sabih-ssy.vercel.app)  
-💼 [linkedin.com/in/sabih-h](https://linkedin.com/in/sabih-h)  
+💼 [linkedin.com/in/sabih-h](https://www.linkedin.com/in/sabih-h-581113274/)  
 🐙 [github.com/sabih-haider1](https://github.com/sabih-haider1)
 
 ---
