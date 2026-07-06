@@ -1,146 +1,150 @@
-# 👋 Hi, I'm Sabih Haider
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0F9D58&center=true&vCenter=true&width=900&lines=Junior+Software+Engineer+%7C+Full-Stack;2%2B+Years+Production+Experience;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;CI%2FCD+%C2%B7+Cloud+%C2%B7+Real+Systems;Shipping+Code+That+Actually+Runs+in+Prod" />
-</p>
+# hey, i'm sabih 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;I+build+things+that+actually+ship;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Currently+debugging+something%2C+probably" alt="Typing SVG" />
 
-## 🚀 About Me
+</div>
 
-💻 **Junior Software Engineer** at MST Developers (Remote) — Jan 2023 – Present  
-🎓 **BS Software Engineering** · University of Central Punjab, Lahore  
-⚡ 2+ years of production experience — not tutorial projects, real client systems  
-🚢 Built on Finmile, WooCommerce platforms, CI/CD pipelines, and live deployments  
-📈 Focused on backend architecture, API design, and full-stack delivery  
+<br>
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 🧠 Tech Stack
+```yaml
+whoami:
+  name: Sabih Haider
+  role: Software Engineering Student
+  based_in: Lahore, Pakistan
+  university: University of Central Punjab
+  focus: [full-stack, apis, automation, ai-integration]
+  current_status: "shipping code that actually runs in prod"
+  fun_fact: "I've stared at more merge conflicts than I'd like to admit"
+```
 
-### 🔤 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
+</td>
+<td width="40%" valign="top" align="center">
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="100%" />
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  &nbsp;<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,azure,vercel,nginx,linux" />
-  &nbsp;<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-222?style=for-the-badge&logo=github-actions" />
-</p>
-
-### 🛠️ Tooling & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,wordpress" />
-  &nbsp;<img alt="OpenCart" src="https://img.shields.io/badge/OpenCart-48A8E0?style=for-the-badge" />
-  &nbsp;<img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  &nbsp;<img alt="SuiteCRM" src="https://img.shields.io/badge/SuiteCRM-E61F28?style=for-the-badge" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Selected Projects
+### ⚡ what i'm actually doing
 
-### 🚚 Finmile — Delivery Optimization Platform
-`React` `Next.js` `Supabase` `PostgreSQL` `GitHub Actions` `Vercel`  
-Contract collaboration at MST Developers. Led repository workflows, PR reviews, and version control strategy across the team. Designed Supabase/PostgreSQL schema, REST API layer, and data workflows. Deployed via Vercel with CI/CD through GitHub Actions.
-
----
-
-### 📚 BookEX — Book Exchange & Community Platform
-`React` `Next.js` `Node.js` `MongoDB` `Azure Ubuntu VPS` `Vercel` `AI / Vision`  
-Full-stack platform for buying, exchanging, and discovering books with real-time community chat and user feeds. Features an **AI-powered book condition reviewer** that analyzes cover/page images and auto-grades condition. MongoDB backend self-hosted on Azure Ubuntu VPS; frontend deployed on Vercel.
+- 🔭 Building **[styltaxi](https://github.com/sabih-haider1/styltaxi)** and **[ZaviksTech](https://github.com/sabih-haider1/ZaviksTech)** right now
+- 🤖 Playing with AI/vision + automation — check out **[Content-Creation-Automation](https://github.com/sabih-haider1/Content-Creation-Automation)** and **[pr-reviewer](https://github.com/sabih-haider1/pr-reviewer)**
+- 🚚 Shipped **[Finmile](https://github.com/sabih-haider1/finmile)**, a delivery optimization platform — real client, real users, real bugs at 2am
+- 🏥 Built **[Physio_Pro](https://github.com/sabih-haider1/Physio_Pro)**, a full MERN healthcare management system
+- 🧠 Learning system design, PostgreSQL tuning, and how to deploy things without breaking prod
+- 💬 Ask me about Next.js, REST API design, or why CI/CD pipelines fail at the worst possible time
 
 ---
 
-### 🏥 Physio Pro — Healthcare Management System
-`MongoDB` `Express` `React` `Node.js`  
-Full-stack physiotherapy management system with JWT authentication, appointment scheduling, and patient records. Secure REST APIs with responsive UI.
+### 🛠️ the stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Data**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=githubactions,azure,vercel,nginx,linux,docker" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,wordpress" />
+
+</div>
 
 ---
 
-### 🖥️ NTFS Tool — Open Source Fork
-`Electron` `Vue 3` `MIT License`  
-Migrated app to Electron + Vue 3 with modern UI redesign. Added ExFAT support, localization, and system monitoring. Removed paid restrictions and shipped under MIT.
+### 🎯 a few projects worth clicking on
+
+<table>
+<tr>
+<td width="50%">
+
+**🚚 [Finmile](https://github.com/sabih-haider1/finmile)**
+<br>
+Delivery optimization platform. Supabase + PostgreSQL schema, REST API layer, CI/CD via GitHub Actions, deployed on Vercel.
+
+</td>
+<td width="50%">
+
+**🏥 [Physio Pro](https://github.com/sabih-haider1/Physio_Pro)**
+<br>
+Full-stack physiotherapy system — appointment scheduling, patient records, JWT auth, MERN stack.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🖥️ [NTFS Tool](https://github.com/sabih-haider1/ntfstool)**
+<br>
+Migrated to Electron + Vue 3, added ExFAT support, stripped paid restrictions, shipped it free under MIT.
+
+</td>
+<td width="50%">
+
+**🎓 [Horizon UCP](https://github.com/sabih-haider1/horizon-ucp-frontend)**
+<br>
+University management frontend — admin dashboard, student portal, enrollments and grades, all in one place.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Demion University Web Portal
-`PHP` `MySQL` `JavaScript`  
-Frontend system integrating **38+ university processes** — Admissions, Course Management, Remote Exams, IT Support, Digital Library — with full Business Process Engineering documentation.
+### 📈 the receipts
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabih-haider1&theme=synthwave&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih-haider1&theme=synthwave&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-### ♟️ Pokémon-Themed Chess Game
-`HTML` `CSS` `JavaScript`  
-Standalone browser chess game with complete logic: Castling, En Passant, Promotion. Custom Pokémon sprites as pieces.
+### 📫 let's talk
 
----
+<div align="center">
 
-## 📊 GitHub Analytics
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabih0364@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sabih-ssy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabih-h-581113274/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabih._.haider/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabih-haider1&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih-haider1&theme=tokyo-night&hide_border=true" />
-</p>
+*"production over portfolio, systems over screenshots, shipping over talking."*
 
----
+<img src="https://komarev.com/ghpvc/?username=sabih-haider1&label=Profile+Views&color=2EE59D&style=flat" />
 
-## 📚 Currently Exploring
-
-- Advanced system design & architecture patterns
-- PostgreSQL performance tuning & query optimization
-- AI/Vision API integration into production apps
-- Scalable deployment on Linux VPS (Nginx, PM2, Docker)
-
----
-
-## 📫 Contact
-
-📧 sabih0364@gmail.com  
-🌐 [sabih-ssy.vercel.app](https://sabih-ssy.vercel.app)  
-💼 [linkedin.com/in/sabih-h](https://www.linkedin.com/in/sabih-h-581113274/)  
-🐙 [github.com/sabih-haider1](https://github.com/sabih-haider1)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabih-haider1&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> Production over portfolio.  
-> Systems over screenshots.  
-> Shipping over talking.
-
-<!--
-This repository appears on your GitHub profile.
-Keep updating it as your skills grow.
--->
+</div>
