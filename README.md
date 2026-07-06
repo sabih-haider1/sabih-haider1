@@ -26,7 +26,7 @@ whoami:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=synthwave&hide_border=true" width="100%" />
 
 </td>
 </tr>
