@@ -26,7 +26,7 @@ whoami:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabih-haider1&show_icons=true&theme=synthwave&hide_border=true" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sabih-haider1&show_icons=true&theme=synthwave&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ University management frontend — admin dashboard, student portal, enrollments 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabih-haider1&theme=synthwave&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=sabih-haider1&theme=synthwave&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih-haider1&theme=synthwave&hide_border=true" width="100%" />
 
